@@ -8,7 +8,7 @@
 int main () {
 	int first = 9;
 	float second = 3.159;
-	printf("%d\n", first/3, second);
+	printf("%d\n%0.2f", first/3, second*2);
 
 	return 0;
 }
