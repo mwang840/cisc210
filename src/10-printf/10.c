@@ -116,5 +116,3 @@ int main(void)
     printf("?:\?"); /* valid */
     printf("/:\/");
 }
-
-
